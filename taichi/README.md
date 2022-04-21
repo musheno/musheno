@@ -21,6 +21,7 @@ It is better to only push a little at a time, “pushing harder” will only slo
 Learning them in order is best
 
 ###  Taichi Stance
+
 ![Taichi Stance](taichi.svg)
 
 Bubbling springs directly under arm pits, straight spine, relaxed body, hands at sides with tigers mouth...
@@ -34,21 +35,25 @@ Try to **breath up not out**, but more importantly keep your spine straight.
 A variant to calm down from work: same position, but in a seated position, and breath out from your belly, there should be no movement in your chest or shoulders, again straight vertical spine all the way from neck to chair.
 
 ### Bubling Springs
+
 ![Bubling Springs](bubling-springs.svg)
 
 Your weight when not in motion should be on the point shown (the intersection of the meaty parts of your foot).
 
 ### Taichi Step
+
 ![Taichi Step](taichi-step.svg)
 
 Upon foot placement, your lead foot should be 1 “foot” in front of the other, with the angle between feet a 45° angle to each other.
 
 ### Tigers Mouth
+
 ![Tigers Mouth](tigers-mouth.svg)
 
 Flat palm, thumb at 45° to the pointing finger. When “pushing” you may feel a slight stretch in the hand (You can use a wall).
 
 ### Trembling Oak
+
 ![Trembling Oak](trembling-oak.svg)
 
 This can be done sitting or standing: Elbow pointing directly, bent at a 90° angle, arms directly in front of you, rotate the wrist only... palm to you and then away. You can over rotate slightly if you don't feel a stretch, but only do so in moderation. Build up to it at first.
@@ -57,6 +62,7 @@ Imagine an iron rod starting at your elbow going through the middle finger. Rota
 
 ### Tor Yu
 'Tare you'
+
 ![Tor Yu-yin](tor-yu-yin.svg)
 ![Tor Yu-yang](tor-yu-yang.svg)
 
@@ -69,6 +75,7 @@ As you are shifting weight, “throw the ball forward”, rotating your body so 
 Push forward with the tigers mouth. You should then be able to lift the back foot.
 
 ### Don-Yu
+
 'Down You': no diagram... its just sitting "in a chair"
 
 Start in front of a chair in the Tai-Ch Stance . Sit down, but do so slowly, pushing your butt out, hands pushing forward with a Tigers Mouth.
@@ -78,6 +85,7 @@ Try stopping mid way. After a while you get some balance and you will be able to
 After your muscles loosen up, you can complete the movement by slowly going deeper into the sit, until your thighs are parallel to the ground. Do not sit further.
 
 ### Wave Hands like Clouds
+
 ![Wave Hands-start](wave-hands-start.svg)
 ![Wave Hands-middle](wave-hands-middle.svg)
 ![Wave Hands-end](wave-hands-end.svg)
