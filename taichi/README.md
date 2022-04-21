@@ -60,7 +60,7 @@ This can be done sitting or standing: Elbow pointing directly, bent at a 90° an
 
 Imagine an iron rod starting at your elbow going through the middle finger. Rotate your hand around this rod, but your elbow & shoulder don't move.
 
-### Tor Yu
+### Tor-Yu
 'Tare you'
 
 ![Tor Yu-yin](tor-yu-yin.svg)
