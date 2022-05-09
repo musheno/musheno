@@ -18,11 +18,12 @@ Obtain a position as a Technical Lead in an organization where strong software d
 ## Sample of Technical Expertise
 * Languages: Java, Maven ANT and Ivy, BeanShell, BASH, Powershell, GO, Some Javascript (JQuery, Vue, Angular, Node.js)
 * Application Programmer Interfaces: JDK, Swing, JavaFX, JMS, Apache Commons, Java Mail, Drools & JESS, Amazon SDK, Android
-* Testing Frameworks: Fitnesse, JUnit, JMock, Mockito Selenium
+* Testing Frameworks: Fitnesse, JUnit, JMock, Mockito, Selenium
 * Application Frameworks: JEE (1.0, 2.x, 3.0), JSE (0.1.8 through 1.8), Spring, J2ME (MDP, and CDC), OSGi
 * Integrated Development Environments: Eclipse. Netbeans, Rational Rose, Together J
 * Data Formats and Protocols: HTML, CSS, XML, XSD, XSLT, JSON, REST, OAuth (1.0, 1.1, and 2.0), J2EE Managed Beans, IIOP/TCP/UDP, Magnet Links
 * Securty A&A Frameworks: Spring Security, Google OAuth, SAML
+* CI: Jenkins, DCOS, Kuberneties
 * Databases
   * In Memory/Testing: Derby, Hypersonic
   * Production: Oracle (7 – 10g), MySQL, Sybase, PostgreSQL
