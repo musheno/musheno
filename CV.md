@@ -88,6 +88,8 @@ Obtain a position as a Technical Lead in an organization where strong software d
   * July 1995 - 2007
 
 ## Referances
-* David Hanger hangerdr@gmail.com
-* Jon Royer jonathan.royer@flairsoft.net
-* Greg Mundy gregmundy@gmail.com
+* [David Hanger](mailto:hangerdr@gmail.com) Altamira
+* [Collin Rush](mailto:collin.rush@crown.com) Crown Equipment
+* [John Livingston](mailto:livingjw@earthlink.net) Flairsoft
+* [Jon Royer](mailto:jonathan.royer@flairsoft.net) Flairsoft
+* [Greg Mundy](mailto:gregmundy@gmail.com) NOAA
