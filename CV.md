@@ -47,6 +47,7 @@ Obtain a position as a Technical Lead in an organization where strong software d
   * Java Developer
   * October 2017 – October 2019
   * Developed an internal tool to help clean up old data, and assisted with custom tooling to assist the data sciences team.
+  * Developed custom reporting software in Java.
 * Flairsoft Federal
   * Java Developer
   * June 2015 – July 2017
