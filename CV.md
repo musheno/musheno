@@ -88,8 +88,9 @@ Obtain a position as a Technical Lead in an organization where strong software d
   * July 1995 - 2007
 
 ## Referances
-* [David Hanger](mailto:hangerdr@gmail.com) Altamira
-* [Collin Rush](mailto:collin.rush@crown.com) Crown Equipment
-* [John Livingston](mailto:livingjw@earthlink.net) Flairsoft
-* [Jon Royer](mailto:jonathan.royer@flairsoft.net) Flairsoft
-* [Greg Mundy](mailto:gregmundy@gmail.com) NOAA
+* [David Hanger](mailto:hangerdr@gmail.com): Altamira (937)490-4804
+* Mark Wells: Altamira (937)490-4804
+* [Collin Rush](mailto:collin.rush@crown.com): Crown Equipment (419)629-2311x3984
+* [John Livingston](mailto:livingjw@earthlink.net): Flairsoft (614)888-0700 
+* [Jon Royer](mailto:jonathan.royer@flairsoft.net): Flairsoft (614)888-0700
+* [Greg Mundy](mailto:gregmundy@gmail.com): NOAA (302)753-6451
