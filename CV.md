@@ -40,6 +40,7 @@ Obtain a position as a Technical Lead in an organization where strong software d
   * Most of this work was in maintance mode, so it was mostly troubleshooting, and bugfix of existing systems.
   * Created full-scale end-to-end test integration framework that enabled testers to write and debug automated tests without having to write any code.
     * Allowing developers focus primarily on unit tests, fixing bugs and adding new features.
+    * Although mostly Selenium based, there was also integration into non-web technologies as a part of the process.
   * Did software development in Golang and Angular.
 * Crown Equipment
   * Java Developer
