@@ -38,6 +38,9 @@ Obtain a position as a Technical Lead in an organization where strong software d
   * October 2019 – May 2022
   * Did software maintenance for various Air Force systems.
   * Most of this work was in maintance mode, so it was mostly troubleshooting, and bugfix of existing systems.
+  * Created full-scale end-to-end test integration framework that enabled testers to write and debug automated tests without having to write any code.
+    * Allowing developers focus primarily on unit tests, fixing bugs and adding new features.
+  * Did software development in Golang and Angular.
 * Crown Equipment
   * Java Developer
   * October 2017 – October 2019
