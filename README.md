@@ -2,3 +2,4 @@
 - 👀 I’m interested in Java, SciFi, Role playing games, and Dogs!
 - 🌱 I’m currently learning everything I can.
 - 📫 How to reach me RhinoArmyⓐgmail.com
+- 📓 [My current Resume](https://github.com/musheno/musheno/blob/main/CV.md)
