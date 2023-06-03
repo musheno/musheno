@@ -5,23 +5,25 @@
 > RhinoArmy+CV@gmail.com
 
 ## Objective
-Obtain a position as a Technical Lead in an organization where strong software development abilities combined with excellent team leadership skills are needed.
+Obtain a position as a Technical Lead / Mentor / Developer in an organization where strong software development abilities combined with excellent team leadership skills are needed.
+My language dejure is Java, so an environment where that is the primary focus would be nice.
 
 ## Summary of Qualifications
 * Many years of experience designing and developing Object-Oriented and Web-based solutions in diverse industries.
 * Highly experienced and results-oriented Java architect with a proven track record of providing technical leadership to diverse teams of technology professionals.
 * Proven history of identifying project risks and implementing remediation strategies to ensure project success.
 * Detail oriented and highly technical software developer with significant experience applying Java, Java EE, and Object-Oriented Design to diverse problem domains.
-* Holds certifications in Java, Object-Oriented Design, and Agile Development principles.
 * Versatile team player skilled at building new and improving existing teams through mentoring, process development, and open communication.
+* Reasonably capable in a wide bredth of technologies, and I love to learn new things.
 
 ## Sample of Technical Expertise
-* Languages: Java, Maven ANT and Ivy, BeanShell, BASH, Powershell, GO, Some Javascript (JQuery, Vue, Angular, Node.js)
-* Application Programmer Interfaces: JDK, Swing, JavaFX, JMS, Apache Commons, Java Mail, Drools & JESS, Amazon SDK, Android
+* Languages: Java, Maven ANT and Ivy, BeanShell, BASH, Powershell, Some Javascript (JQuery, Vue, Angular, Node.js)
+  * Capable of reading so many others I cannot list them here.
+* Application Programmer Interfaces: JDK, Swing, JavaFX, JMS, Apache Commons, Java Mail, Amazon SDK, Android
 * Testing Frameworks: Fitnesse, JUnit, JMock, Mockito, Selenium
-* Application Frameworks: JEE (1.0, 2.x, 3.0), JSE (0.1.8 through 1.8), Spring, J2ME (MDP, and CDC), OSGi
+* Application Frameworks: JEE (1.0, 2.x, 3.0), JSE (0.1.8 through 1.8), Spring, J2ME (MDP, and CDC), Some DataTables.
 * Integrated Development Environments: Eclipse. Netbeans, Rational Rose, Together J
-* Data Formats and Protocols: HTML, CSS, XML, XSD, XSLT, JSON, REST, OAuth (1.0, 1.1, and 2.0), J2EE Managed Beans, IIOP/TCP/UDP, Magnet Links
+* Data Formats and Protocols: HTML (5 and others), CSS, XML, XSD, XSLT, JSON, REST, OAuth, J2EE Managed Beans, TCP/UDP, Magnet Links, Swagger
 * Securty A&A Frameworks: Spring Security, Google OAuth, SAML
 * CI: Jenkins, DCOS, Kuberneties
 * Databases
@@ -32,8 +34,23 @@ Obtain a position as a Technical Lead in an organization where strong software d
   * Web Profile: Apache (httpd, Tomcat), Java Application Server, Jersey, Jetty
   * Application Profile: Glassfish Application Server, BEA WebLogic, IBM Websphere, JBoss Application Server
 * Operating Systems: UNIX/Linux (Ubuntu, Red Hat, Fedora Core, Solaris), Microsoft Windows (95, NT, 98, XP), IBM AS/400, Apple Mac OS X
+* Cloud Technologies: Kubernties, AWS, Docker, DC/OS, Elastic, Ansible
 
 ## Recent Professional Experience
+* NextGen Federal
+  * July 2022 - June 2023
+  * Worked on two projects.
+    * Joint Chiefs of Staff
+    * National Air and Space Intel Center
+  * Mostly Java, Some Javascript
+  * Worked with legacy migration & support.
+  * Learned a lot about JavaScript tecnologies, and some JS APIs, mostly DataTables.
+  * Created a POC UI for a legacy system.
+  * Created a "IDE Docker image" so developers could use an IDE high side.
+* Great Americal (short term contract)
+  * Java Developer
+  * May 2022 - July 2022
+  * Simple Java Development (pushing pennies).
 * Altamiracorp Technology Coperation
   * Full Stack Developer
   * October 2019 – May 2022
@@ -95,7 +112,6 @@ Obtain a position as a Technical Lead in an organization where strong software d
 
 ## Referances
 * [David Hanger](mailto:hangerdr@gmail.com): Altamira (937)490-4804
-* Mark Wells: Altamira (937)490-4804
 * [Collin Rush](mailto:collin.rush@crown.com): Crown Equipment (419)629-2311x3984
 * [John Livingston](mailto:livingjw@earthlink.net): Flairsoft (614)888-0700 
 * [Jon Royer](mailto:jonathan.royer@flairsoft.net): Flairsoft (614)888-0700
