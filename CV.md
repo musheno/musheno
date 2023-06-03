@@ -31,7 +31,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Production: Oracle (7 – 10g), MySQL, Sybase, PostgreSQL
   * Specialized Environments: Microsoft Access through JDBC, eXist, Apache POI
 * Servers and Containers
-  * Web Profile: Apache (httpd, Tomcat), Java Application Server, Jersey, Jetty
+  * Web Profile: DropWizard, Apache (httpd, Tomcat), Java Application Server, Jersey, Jetty
   * Application Profile: Glassfish Application Server, BEA WebLogic, IBM Websphere, JBoss Application Server
 * Operating Systems: UNIX/Linux (Ubuntu, Red Hat, Fedora Core, Solaris), Microsoft Windows (95, NT, 98, XP), IBM AS/400, Apple Mac OS X
 * Cloud Technologies: Kubernties, AWS, Docker, DC/OS, Elastic, Ansible
