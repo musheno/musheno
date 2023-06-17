@@ -111,7 +111,8 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * July 1995 - 2007
 
 ## Referances
-* [David Hanger](mailto:hangerdr@gmail.com): Altamira (937)490-4804
+* [David Benedict](mailto:dbenedict@nextgenfed.com): NextGen Federal (717)421-7632
+* [David Hanger](mailto:hangerdr@gmail.com): Altamira (513)382-9459
 * [Collin Rush](mailto:collin.rush@crown.com): Crown Equipment (419)629-2311x3984
 * [John Livingston](mailto:livingjw@earthlink.net): Flairsoft (614)888-0700 
 * [Jon Royer](mailto:jonathan.royer@flairsoft.net): Flairsoft (614)888-0700
