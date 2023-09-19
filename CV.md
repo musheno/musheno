@@ -1,7 +1,9 @@
 # Resume: Todd Musheno
-> 614 Halleck CT
+> 614 Halleck CT,
 > WPAFB, OH 45433
+> |
 > (614)800-6966
+> |
 > RhinoArmy+CV@gmail.com
 
 ## Objective
@@ -14,7 +16,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
 * Proven history of identifying project risks and implementing remediation strategies to ensure project success.
 * Detail oriented and highly technical software developer with significant experience applying Java, Java EE, and Object-Oriented Design to diverse problem domains.
 * Versatile team player skilled at building new and improving existing teams through mentoring, process development, and open communication.
-* Reasonably capable in a wide bredth of technologies, and I love to learn new things.
+* Reasonably capable in a wide breadth of technologies, and I love to learn new things.
 
 ## Sample of Technical Expertise
 * Languages: Java, Maven ANT and Ivy, BeanShell, BASH, Powershell, Some Javascript (JQuery, Vue, Angular, Node.js)
@@ -25,7 +27,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
 * Integrated Development Environments: Eclipse. Netbeans, Rational Rose, Together J
 * Data Formats and Protocols: HTML (5 and others), CSS, XML, XSD, XSLT, JSON, REST, OAuth, J2EE Managed Beans, TCP/UDP, Magnet Links, Swagger
 * Securty A&A Frameworks: Spring Security, Google OAuth, SAML
-* CI: Jenkins, DCOS, Kuberneties
+* CI: Jenkins, DCOS, Kubernetes
 * Databases
   * In Memory/Testing: Derby, Hypersonic
   * Production: Oracle (7 – 10g), MySQL, Sybase, PostgreSQL
@@ -34,7 +36,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Web Profile: DropWizard, Apache (httpd, Tomcat), Java Application Server, Jersey, Jetty
   * Application Profile: Glassfish Application Server, BEA WebLogic, IBM Websphere, JBoss Application Server
 * Operating Systems: UNIX/Linux (Ubuntu, Red Hat, Fedora Core, Solaris), Microsoft Windows (95, NT, 98, XP), IBM AS/400, Apple Mac OS X
-* Cloud Technologies: Kubernties, AWS, Docker, DC/OS, Elastic, Ansible
+* Cloud Technologies: Kubernetes, AWS, Docker, DC/OS, Elastic, Ansible
 
 ## Recent Professional Experience
 * OneIlluminate
@@ -56,11 +58,11 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Java Developer
   * May 2022 - July 2022
   * Simple Java Development (pushing pennies).
-* Altamiracorp Technology Coperation
+* Altamira Technologies Corperation
   * Full Stack Developer
   * October 2019 – May 2022
   * Did software maintenance for various Air Force systems.
-  * Most of this work was in maintance mode, so it was mostly troubleshooting, and bugfix of existing systems.
+  * Most of this work was in maintenance mode, so it was mostly troubleshooting, and bugfix of existing systems.
   * Created full-scale end-to-end test integration framework that enabled testers to write and debug automated tests without having to write any code.
     * Allowing developers focus primarily on unit tests, fixing bugs and adding new features.
     * Although mostly Selenium based, there was also integration into non-web technologies as a part of the process.
