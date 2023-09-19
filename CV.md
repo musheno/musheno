@@ -37,6 +37,11 @@ My language dejure is Java, so an environment where that is the primary focus wo
 * Cloud Technologies: Kubernties, AWS, Docker, DC/OS, Elastic, Ansible
 
 ## Recent Professional Experience
+* OneIlluminate
+  * June 2023 - September 2023
+  * Project Manager
+  * Did some research on technologies we were to use.
+  * Created some high level diagrams to show interactions between systems, and assist in understanding deployment.
 * NextGen Federal
   * July 2022 - June 2023
   * Worked on two projects.
