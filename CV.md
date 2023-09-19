@@ -58,7 +58,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Java Developer
   * May 2022 - July 2022
   * Simple Java Development (pushing pennies).
-* Altamira Technologies Corperation
+* Altamira Technologies Corporation
   * Full Stack Developer
   * October 2019 – May 2022
   * Did software maintenance for various Air Force systems.
@@ -90,7 +90,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Java Developer
   * June 2015 – October 2015
   * Developed a full stack RESTful service (JAX-RS), and Cordova (JavaScript/JQuery) client to retrieve the observation of peoples behaviors for safety training compliance.
-* Information Control Corperation (ICC)
+* Information Control Corporation (ICC)
   * Java Architect
   * Oct 2014 – May 2015
   * Supported the development efforts for a set of products that were highly integrated with IBM products, such as WTX, and Datapower to aid in integration efforts. Trained staff on proper Agaile methodologies, and Test Driven Development (TDD), and created a system that allowed simple TDD to be done with WTX systems without custom development.
