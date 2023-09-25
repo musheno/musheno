@@ -59,7 +59,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Learned a lot about JavaScript tecnologies, and some JS APIs, mostly DataTables.
   * Created a POC UI for a legacy system.
   * Created a "IDE Docker image" so developers could use an IDE high side.
-* Great Americal (short term contract)
+* Great American (short term contract)
   * Java Developer
   * May 2022 - July 2022
   * Simple Java Development (pushing pennies).
