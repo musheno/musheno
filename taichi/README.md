@@ -56,7 +56,7 @@ Flat palm, thumb at 45° to the pointing finger. When “pushing” you may feel
 
 ![Trembling Oak](trembling-oak.svg)
 
-This can be done sitting or standing: Elbow pointing directly, bent at a 90° angle, arms directly in front of you, rotate the wrist only... palm to you and then away. You can over rotate slightly if you don't feel a stretch, but only do so in moderation. Build up to it at first.
+This can be done sitting or standing: Elbow pointing directly forward, bent at a 90° angle, arms directly in front of you, rotate the wrist only... palm to you and then away. You can over rotate slightly if you don't feel a stretch, but only do so in moderation. Build up to it at first.
 
 Imagine an iron rod starting at your elbow going through the middle finger. Rotate your hand around this rod, but your elbow & shoulder don't move.
 
