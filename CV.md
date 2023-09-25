@@ -8,7 +8,7 @@
 > [RhinoArmy+CV@gmail.com](mailto:RhinoArmy+CV@gmail.com)
 
 ## Objective
-Obtain a position as a Technical Lead / Mentor / Developer in an organization where strong software development abilities combined with excellent team leadership skills are needed.
+Obtain a position as a Software Architect / Technical Lead / Mentor / Developer in an organization where strong software development abilities combined with excellent team leadership skills are needed.
 My language dejure is Java, so an environment where that is the primary focus would be nice.
 
 ## DOD Qualifications
