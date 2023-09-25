@@ -3,9 +3,9 @@
 > 4345 N Hyland DR,
 > Riverside, OH 45424
 
-> (614)800-6966
+> [(614)800-6966](tel:6148006966)
 
-> RhinoArmy+CV@gmail.com
+> [RhinoArmy+CV@gmail.com](mailto:RhinoArmy+CV@gmail.com)
 
 ## Objective
 Obtain a position as a Technical Lead / Mentor / Developer in an organization where strong software development abilities combined with excellent team leadership skills are needed.
