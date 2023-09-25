@@ -1,14 +1,19 @@
 # Resume: Todd Musheno
-> 614 Halleck CT,
-> WPAFB, OH 45433
-> |
+
+> 4345 N Hyland DR,
+> Riverside, OH 45424
+
 > (614)800-6966
-> |
+
 > RhinoArmy+CV@gmail.com
 
 ## Objective
 Obtain a position as a Technical Lead / Mentor / Developer in an organization where strong software development abilities combined with excellent team leadership skills are needed.
 My language dejure is Java, so an environment where that is the primary focus would be nice.
+
+## DOD Qualifications
+* Active TS/SCI Clearance
+* CompTIA Security+ ce [Certified](https://www.credly.com/badges/438b2a2b-e027-4b5f-8d29-d12f3b71ccde/public_url)
 
 ## Summary of Qualifications
 * Many years of experience designing and developing Object-Oriented and Web-based solutions in diverse industries.
