@@ -28,7 +28,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Capable of reading so many others I cannot list them here.
 * Application Programmer Interfaces: JDK, Swing, JavaFX, JMS, Apache Commons, Java Mail, Amazon SDK, Android
 * Testing Frameworks: Fitnesse, JUnit, JMock, Mockito, Selenium
-* Application Frameworks: JEE (1.0, 2.x, 3.0), JSE (0.1.8 through 1.8), Spring, J2ME (MDP, and CDC), Some DataTables.
+* Application Frameworks: JEE (1.0, 2.x, 3.0), JSE (0.1.8 through 1.8), Spring (Boot & Framework, as well as its full stack), J2ME (MDP, and CDC), Some DataTables.
 * Integrated Development Environments: Eclipse. Netbeans, Rational Rose, Together J
 * Data Formats and Protocols: HTML (5 and others), CSS, XML, XSD, XSLT, JSON, REST, OAuth, J2EE Managed Beans, TCP/UDP, Magnet Links, Swagger
 * Securty A&A Frameworks: Spring Security, Google OAuth, SAML
