@@ -49,6 +49,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Project Manager
   * Did some research on technologies we were to use.
   * Created some high level diagrams to show interactions between systems, and assist in understanding deployment.
+  * This application used Kubernetes and microservices in their implementation.
 * NextGen Federal
   * July 2022 - June 2023
   * Worked on two projects.
@@ -57,12 +58,12 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Mostly Java, Some Javascript
   * Worked with legacy migration & support.
   * Learned a lot about JavaScript tecnologies, and some JS APIs, mostly DataTables.
-  * Created a POC UI for a legacy system.
-  * Created a "IDE Docker image" so developers could use an IDE high side.
+  * Created a POC UI for a legacy system migration to a microservice architecture.
+  * Created a "IDE Docker image" so developers could use an IDE high side (also included a Kubernetes deployment).
 * Great American (short term contract)
   * Java Developer
   * May 2022 - July 2022
-  * Simple Java Development (pushing pennies).
+  * Simple Java Development (pushing pennies) using an AWS based microservice arctiecture and NOSQL backend.
 * Altamira Technologies Corporation
   * Full Stack Developer
   * October 2019 – May 2022
@@ -76,7 +77,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Java Developer
   * October 2017 – October 2019
   * Developed an internal tool to help clean up old data, and assisted with custom tooling to assist the data sciences team.
-  * Developed custom reporting software in Java.
+  * Developed custom reporting software in Java (J2EE microservices mostly).
 * Flairsoft Federal
   * Java Developer
   * June 2015 – July 2017
