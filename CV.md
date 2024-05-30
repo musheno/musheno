@@ -82,6 +82,10 @@ My language dejure is Java, so an environment where that is the primary focus wo
     * Allowing developers focus primarily on unit tests, fixing bugs and adding new features.
     * Although mostly Selenium based, there was also integration into non-web technologies as a part of the process.
   * Did software development in Golang and Angular.
+* Indrasoft
+  * Java Developer
+  * March 2018 - July 2019
+  * Did full stack development... mostly JavaScript based technologies.
 * Crown Equipment
   * Java Developer
   * October 2017 – October 2019
