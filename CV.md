@@ -1,4 +1,4 @@
-# Resume: Todd Musheno
+# Resume: Todd McDaniel
 
 > 4345 N Hyland DR,
 > Riverside, OH 45424
