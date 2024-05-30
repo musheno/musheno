@@ -45,7 +45,7 @@ My language dejure is Java, so an environment where that is the primary focus wo
 
 ## Recent Professional Experience
 * Insight Global (direct Northrup Grumman)
-  * November 2023 - Now
+  * November 2023 - June 4 2024
   * Software Developer (JBoss conversion project)
   * Mostly did a conversion of Docker & podman containers to JBoss.
   * Created script (using ANT, as regular scripting tools were insufficant to complete this task) that automated the majority of said conversion, and trained other developer on its use.
