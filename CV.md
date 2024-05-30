@@ -50,7 +50,8 @@ My language dejure is Java, so an environment where that is the primary focus wo
   * Mostly did a conversion of Docker & podman containers to JBoss.
   * Created script (using ANT, as regular scripting tools were insufficant to complete this task) that automated the majority of said conversion, and trained other developer on its use.
   * Did training for junior developers on general software and TDD.
-  * A minor ammount of actual Java software development.
+  * Introduced developers to Unit testing.
+  * Major refactor due to issues with Sonar reports.
 * OneIlluminate
   * June 2023 - September 2023
   * Project Manager
